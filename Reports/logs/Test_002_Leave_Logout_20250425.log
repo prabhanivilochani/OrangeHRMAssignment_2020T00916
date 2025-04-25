@@ -1,0 +1,59 @@
+2025-04-25 09:19:43,545 - Test_002_Leave_Logout - INFO - Starting test: test_leave_functionality
+2025-04-25 09:20:21,666 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:20:25,374 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:20:29,121 - Test_002_Leave_Logout - INFO - Clicked on My Leave
+2025-04-25 09:20:31,175 - Test_002_Leave_Logout - INFO - Leave page loaded successfully
+2025-04-25 09:20:35,715 - Test_002_Leave_Logout - INFO - Starting test: test_logout
+2025-04-25 09:20:41,598 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:20:46,943 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:20:51,120 - Test_002_Leave_Logout - INFO - Clicked on logout
+2025-04-25 09:20:53,132 - Test_002_Leave_Logout - INFO - Logout successful
+2025-04-25 09:20:53,293 - Test_002_Leave_Logout - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_002_Leave_Logout_20250425_091939.html
+2025-04-25 09:23:47,220 - Test_002_Leave_Logout - INFO - Starting test: test_leave_functionality
+2025-04-25 09:24:12,369 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:24:15,654 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:24:19,303 - Test_002_Leave_Logout - INFO - Clicked on My Leave
+2025-04-25 09:24:21,332 - Test_002_Leave_Logout - INFO - Leave page loaded successfully
+2025-04-25 09:24:27,939 - Test_002_Leave_Logout - INFO - Starting test: test_logout
+2025-04-25 09:24:31,812 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:24:48,584 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:24:52,830 - Test_002_Leave_Logout - INFO - Clicked on logout
+2025-04-25 09:24:54,882 - Test_002_Leave_Logout - INFO - Logout successful
+2025-04-25 09:24:55,165 - Test_002_Leave_Logout - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_002_Leave_Logout_20250425_092330.html
+2025-04-25 09:27:53,531 - Test_002_Leave_Logout - INFO - Starting test: test_leave_functionality
+2025-04-25 09:27:56,717 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:28:03,369 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:28:07,092 - Test_002_Leave_Logout - INFO - Clicked on My Leave
+2025-04-25 09:28:09,138 - Test_002_Leave_Logout - INFO - Leave page loaded successfully
+2025-04-25 09:28:13,821 - Test_002_Leave_Logout - INFO - Starting test: test_logout
+2025-04-25 09:28:40,011 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:28:48,257 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:28:54,353 - Test_002_Leave_Logout - INFO - Clicked on logout
+2025-04-25 09:28:56,392 - Test_002_Leave_Logout - INFO - Logout successful
+2025-04-25 09:28:56,653 - Test_002_Leave_Logout - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_002_Leave_Logout_20250425_092749.html
+2025-04-25 09:31:41,816 - Test_002_Leave_Logout - INFO - Starting test: test_leave_functionality
+2025-04-25 09:31:46,785 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:31:47,953 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:31:51,655 - Test_002_Leave_Logout - INFO - Clicked on My Leave
+2025-04-25 09:31:53,698 - Test_002_Leave_Logout - INFO - Leave page loaded successfully
+2025-04-25 09:31:53,700 - Test_002_Leave_Logout - INFO - Test test_leave_functionality completed
+2025-04-25 09:31:59,967 - Test_002_Leave_Logout - INFO - Starting test: test_logout
+2025-04-25 09:32:05,415 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:32:07,091 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:32:11,361 - Test_002_Leave_Logout - INFO - Clicked on logout
+2025-04-25 09:32:13,381 - Test_002_Leave_Logout - INFO - Logout successful
+2025-04-25 09:32:13,382 - Test_002_Leave_Logout - INFO - Test test_logout completed
+2025-04-25 09:32:15,901 - Test_002_Leave_Logout - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_002_Leave_Logout_20250425_093138.html
+2025-04-25 09:33:22,514 - Test_002_Leave_Logout - INFO - Starting test: test_leave_functionality
+2025-04-25 09:33:27,958 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:33:30,354 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:33:33,997 - Test_002_Leave_Logout - INFO - Clicked on My Leave
+2025-04-25 09:33:36,049 - Test_002_Leave_Logout - INFO - Leave page loaded successfully
+2025-04-25 09:33:36,053 - Test_002_Leave_Logout - INFO - Test test_leave_functionality completed
+2025-04-25 09:33:42,471 - Test_002_Leave_Logout - INFO - Starting test: test_logout
+2025-04-25 09:33:48,688 - Test_002_Leave_Logout - INFO - Opened the application URL
+2025-04-25 09:33:51,198 - Test_002_Leave_Logout - INFO - Logged in successfully
+2025-04-25 09:33:55,491 - Test_002_Leave_Logout - INFO - Clicked on logout
+2025-04-25 09:33:57,514 - Test_002_Leave_Logout - INFO - Logout successful
+2025-04-25 09:33:57,515 - Test_002_Leave_Logout - INFO - Test test_logout completed
+2025-04-25 09:34:01,645 - Test_002_Leave_Logout - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_002_Leave_Logout_20250425_093318.html

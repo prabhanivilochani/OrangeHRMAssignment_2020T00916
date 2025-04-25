@@ -1,0 +1,54 @@
+2025-04-25 09:19:15,597 - Test_001_Login - INFO - Starting test: test_Title
+2025-04-25 09:19:21,247 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:19:23,271 - Test_001_Login - INFO - Title verification passed
+2025-04-25 09:19:28,252 - Test_001_Login - INFO - Starting test: test_login
+2025-04-25 09:19:35,262 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:19:36,450 - Test_001_Login - INFO - Entered username
+2025-04-25 09:19:36,727 - Test_001_Login - INFO - Entered password
+2025-04-25 09:19:36,858 - Test_001_Login - INFO - Clicked login button
+2025-04-25 09:19:38,884 - Test_001_Login - INFO - Login test passed
+2025-04-25 09:19:39,237 - Test_001_Login - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_001_Login_20250425_091852.html
+2025-04-25 09:22:50,373 - Test_001_Login - INFO - Starting test: test_Title
+2025-04-25 09:22:56,409 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:22:58,468 - Test_001_Login - INFO - Title verification passed
+2025-04-25 09:23:03,050 - Test_001_Login - INFO - Starting test: test_login
+2025-04-25 09:23:06,015 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:23:24,605 - Test_001_Login - INFO - Entered username
+2025-04-25 09:23:24,894 - Test_001_Login - INFO - Entered password
+2025-04-25 09:23:26,679 - Test_001_Login - INFO - Clicked login button
+2025-04-25 09:23:30,220 - Test_001_Login - INFO - Login test passed
+2025-04-25 09:23:30,933 - Test_001_Login - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_001_Login_20250425_092245.html
+2025-04-25 09:26:45,352 - Test_001_Login - INFO - Starting test: test_Title
+2025-04-25 09:26:50,409 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:26:52,443 - Test_001_Login - INFO - Title verification passed
+2025-04-25 09:26:58,484 - Test_001_Login - INFO - Starting test: test_login
+2025-04-25 09:27:43,460 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:27:45,363 - Test_001_Login - INFO - Entered username
+2025-04-25 09:27:45,656 - Test_001_Login - INFO - Entered password
+2025-04-25 09:27:47,015 - Test_001_Login - INFO - Clicked login button
+2025-04-25 09:27:49,056 - Test_001_Login - INFO - Login test passed
+2025-04-25 09:27:49,369 - Test_001_Login - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_001_Login_20250425_092640.html
+2025-04-25 09:31:11,006 - Test_001_Login - INFO - Starting test: test_Title
+2025-04-25 09:31:16,646 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:31:18,690 - Test_001_Login - INFO - Title verification passed
+2025-04-25 09:31:18,692 - Test_001_Login - INFO - Test test_Title completed
+2025-04-25 09:31:25,185 - Test_001_Login - INFO - Starting test: test_login
+2025-04-25 09:31:31,159 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:31:32,033 - Test_001_Login - INFO - Entered username
+2025-04-25 09:31:32,319 - Test_001_Login - INFO - Entered password
+2025-04-25 09:31:32,471 - Test_001_Login - INFO - Clicked login button
+2025-04-25 09:31:34,485 - Test_001_Login - INFO - Login test passed
+2025-04-25 09:31:34,485 - Test_001_Login - INFO - Test test_login completed
+2025-04-25 09:31:38,087 - Test_001_Login - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_001_Login_20250425_093104.html
+2025-04-25 09:32:52,033 - Test_001_Login - INFO - Starting test: test_Title
+2025-04-25 09:32:58,099 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:33:00,130 - Test_001_Login - INFO - Title verification passed
+2025-04-25 09:33:00,131 - Test_001_Login - INFO - Test test_Title completed
+2025-04-25 09:33:06,216 - Test_001_Login - INFO - Starting test: test_login
+2025-04-25 09:33:11,263 - Test_001_Login - INFO - Opened the application URL
+2025-04-25 09:33:11,978 - Test_001_Login - INFO - Entered username
+2025-04-25 09:33:12,254 - Test_001_Login - INFO - Entered password
+2025-04-25 09:33:13,675 - Test_001_Login - INFO - Clicked login button
+2025-04-25 09:33:15,696 - Test_001_Login - INFO - Login test passed
+2025-04-25 09:33:15,698 - Test_001_Login - INFO - Test test_login completed
+2025-04-25 09:33:18,770 - Test_001_Login - INFO - Test report generated: D:\campus\Yeear 04\Asignment\Reports\Test_001_Login_20250425_093248.html

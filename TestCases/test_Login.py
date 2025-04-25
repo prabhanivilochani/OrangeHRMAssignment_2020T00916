@@ -1,52 +1,46 @@
-from selenium import webdriver
-from PageObjects.LoginPage import Login
+# TestCases/test_Login.py
 import time
 
-class Test_001_Login:
+from Configuration.config import TestConfig
+from PageObjects.LoginPage import Login
+from Utilities.base_test import BaseTest
+from TestData.test_data import TestData
 
-    base_url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
-    username = "Admin"
-    password = "admin123"
 
-
+class Test_001_Login(BaseTest):
     def test_Title(self):
-        self.driver = webdriver.Chrome()
-        self.driver.maximize_window()
-        self.driver.get(self.base_url)
-        time.sleep(5)
+        self.driver.get(TestConfig.BASE_URL)
+        self.logger.info("Opened the application URL")
+        time.sleep(2)  # Just for demonstration; better to use explicit waits
+
         act_title = self.driver.title
-        self.driver.quit()
+        exp_title = "OrangeHRM"
 
-
-        if act_title == "OrangeHRM":
-            assert True
-            print("Title matches: Test Passed")
-        else:
-            assert False
-            print("Title doesn't match: Test Failed")
-
+        self.assertEqual(act_title, exp_title, "Title verification failed")
+        self.logger.info("Title verification passed")
 
     def test_login(self):
+        self.driver.get(TestConfig.BASE_URL)
+        self.logger.info("Opened the application URL")
 
-        self.driver = webdriver.Chrome()
-        self.driver.maximize_window()
-        self.driver.get(self.base_url)
-        time.sleep(3)
+        # Get test data
+        test_data = TestData.get_json_data("login_data.json")
+        valid_login = test_data["valid_login"]
 
         self.lp = Login(self.driver)
-        self.lp.setUsername(self.username)
-        time.sleep(3)
-        self.lp.setPassword(self.password)
+        self.lp.setUsername(valid_login["username"])
+        self.logger.info("Entered username")
 
-        time.sleep(3)
+        self.lp.setPassword(valid_login["password"])
+        self.logger.info("Entered password")
+
         self.lp.clickLogin()
-        time.sleep(3)
-        act_title = self.driver.title
-        self.driver.quit()
+        self.logger.info("Clicked login button")
 
-        if act_title == "OrangeHRM":
-            assert True
-            print("Title correct: Test Passed")
-        else:
-            assert False
-            print("Title incorrect: Test Failed")
+        time.sleep(2)  # For demonstration purposes
+
+        act_title = self.driver.title
+        exp_title = "OrangeHRM"
+
+        self.assertEqual(act_title, exp_title, "Login test failed")
+        self.logger.info("Login test passed")
